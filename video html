@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>video</title>
+    <link rel="stylesheet" href="video.css">
+</head>
+<body>
+    <table>
+       <th rowspan="2">
+        <video img id="n" controls poster="./video image/ጦረኛው ጦጣ.jpg">
+            <source src="./vid/Teret Teret Amharic  ጣረኛው ጦጣ Amharic stories🐒⚔️🦍.mp4">
+        </video>
+
+    <td>
+        <video class="left" controls poster="./video image/ማንጊታ እና ላሪና.jpg">
+            <source src="./vid/ማንጊታ እና ላሪና _ Mangita and Larina in Amharic _ Amharic Story for Kids _ Amharic Fairy Tales.mp4">
+        </video></td>
+       <td>
+        <video class="left" controls poster ="./video image/ሰነፉ አህያ.jpg">
+               <source src="./vid/ሰነፉ አህያ _ Lazy Donkey in Amharic _ Amharic Story for Kids _ Amharic Fairy Tales.mp4" >
+        </video>
+       </td>
+
+    <div class="side">
+        <tr>
+            <td>
+                <video class ="left" controls poster = "./video image/ሶስቱ ትንንሽ አሳማዎች.jpg"> 
+                  <source src="./vid/ሶስቱ ትንንሽ አሳማዎች _ Three Little Pigs in Amharic _ Amharic Story for Kids _ Amharic Fairy Tales.mp4">
+                </video>
+            </td>
+
+            <td>
+                <video class= "left" controls poster = "./video image/ብልህዋ ማርያ.jpg">
+                    <source src="./vid/ብልህዋ ማርያ _ The Clever Maria Story in Amharic _ Amharic Fairy Tales.mp4">
+                </video>
+            </td>
+        </tr>
+    </table>
+    <table>
+       <th rowspan="2">
+        <video img id="n" controls poster="./video image/ተአምረኛው እርሳስ.jpg">
+            <source src="./vid/ተአምረኛው እርሳስ _ The Magic Pencil Story in Amharic  _ Amharic Fairy Tales.mp4">
+        </video>
+    <td>
+        <video class="left" controls poster="./video image/ተአምረኛው እርሳስ.jpg">
+            <source src="./vid/ተአምረኛው እርሳስ _ The Most Incredible Thing in Amharic _ Amharic Fairy Tales.mp4">
+        </video></td>
+       <td>
+        <video class="left" controls poster ="./video image/ትንንሾቹ ሰቶች.jpg">
+               <source src="./vid/ትንንሾቹ ሴቶች _ The Little Women Story _ Amharic Story for Kids _ Amharic Fairy Tales.mp4" >
+        </video>
+       </td>
+    <div class="side">
+        <tr>
+            <td>
+                <video class ="left" controls poster = "./video image/አልማዙ ልዑል.jpg"> 
+                  <source src="./vid/አልማዙልዑል _ The Ruby Prince Story in Amharic  _ Amharic Fairy Tales.mp4">
+                </video>
+            </td>
+            <td>
+                <video class  = "left" controls poster = "./video image/አራቱ ባሪሃማውያን.jpg">
+                    <source src="./vid/አራቱ ባሪሀማውያን _ The Four Brahmans Story in Amharic _ Amharic Fairy Tales.mp4">
+                </video>
+            </td>
+        </tr>
+    </table>
+
+
+     <table>
+       <th rowspan="2">
+        <video img id="n" controls poster="./video image/አስደናቂው ቀለበት.jpg">
+            <source src="./vid/አስማተኛውኮፍያ _ The Magic cap Story in Amharic _ Amharic Fairy Tales.mp4">
+        </video>
+    <td>
+        <video class="left" controls poster="./video image/አስደናቂው ቀለበት.jpg">
+            <source src="./vid/አስደናቂዋ ቀለበት _ The Wonderful Ring Story in Amharic _ Amharic Fairy Tales.mp4">
+        </video></td>
+       <td>
+        <video class="left" controls poster ="./video image/ውሃ በበርሃ ውስጥ.jpg">
+               <source src="./vid/ወሀ በበረሀ ውስጥ _ Water in The Desert Story in Amharic _ Amharic Fairy Tales.mp4" >
+        </video>
+       </td>
+    <div class="side">
+        <tr>
+            <td>
+                <video class ="left" controls poster = "./video image/ወርቃማዋ ወፍ.jpg"> 
+                  <source src="./vid/ወርቃማዋ ወፍ _ Golden Bird in Amharic _ Amharic Story for Kids _ Amharic Fairy Tales.mp4">
+                </video>
+            </td>
+            <td>
+                <video class  = "left" controls poster = "./video image/ዝይ ጠባቂዋ ልጅ.jpg">
+                    <source src="./vid/ዝይ ጠባቂዋ ልጅ _ Goose Girl in Amharic _ Amharic Story for Kids _ Amharic Fairy Tales.mp4">
+                </video>
+            </td>
+        </tr>
+    </table>
+
+     <table>
+       <th rowspan="2">
+        <video img id="n" controls poster="./video image/የአበባማዎቹ ደሰቶቹ.jpg">
+            <source src="./vid/የአበባማዎቹ ደሴቶች ንግስት _ Queen Of The Flowery Isles Story in Amharic _ Amharic Fairy Tales.mp4">
+        </video>
+    <td>
+        <video class="left" controls poster="./video image/የጉሊቨር ጉዞ.jpg">
+            <source src="./vid/የጉሊቨር ጉዞ-ሊሊፑት ደሴቶች _ Gulliver's Travels Story in Amharic _ Amharic Fairy Tales.mp4">
+        </video></td>
+       <td>
+        <video class="left" controls poster ="./video image/የተፋቹው ልዕልት.jpg">
+               <source src="./vid/የጠፋችው ልዕልት _ The lost princess in Amharic _ Amharic Story for Kids _ Amharic Fairy Tales.mp4" >
+        </video>
+       </td>
+    <div class="side">
+        <tr>
+            <td>
+                <video class ="left" controls poster = "./video image/ግድፈት አልባው ልዑል.jpg"> 
+                  <source src="./vid/ግድፈት አልባው ልዑል _ The Flawless Prince Story in Amharic _ Amharic Fairy Tales.mp4">
+                </video>
+            </td>
+            <td>
+                <video class  = "left" controls poster = "./video image/ፒኖክዮ.jpg">
+                    <source src="./vid/ፒኖክዮ _ Pinocchio in Amharic _ Amharic Story for Kids _ Amharic Fairy Tales.mp4">
+                </video>
+            </td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>
+
