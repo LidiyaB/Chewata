@@ -1,0 +1,86 @@
+/* *{
+    background: linear-gradient(227deg, #10851C 4.93%, rgba(203, 185, 29, 0.83) 52.11%, 
+    rgba(211, 112, 48, 0.60) 97.98%);
+    width: 100%;
+    height: 100%;
+    overflow: hidden; 
+    margin:0px;
+    padding:0px;
+}
+
+.typography{
+    width:50%;
+    height:100%;
+}
+ .typography pre{
+    color: #FFF;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    top:0px;
+    left:250px;
+    
+} 
+#ETHIOPIS {
+    width:800px;
+    height:700px;
+    Top:76px;
+    Left:40px;
+    background-blend-mode:linear-gradient(227deg, #10851C 4.93%, rgba(203, 185, 29, 0.83) 52.11%, rgba(211, 112, 48, 0.60) 97.98%);
+}*/
+
+
+body {
+    background: linear-gradient(227deg, #10851C 40.93%, rgba(203, 185, 29, 0.83) 52.11%, 
+    rgba(211, 112, 48, 0.60) 97.98%);
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+}
+
+#ETHIOPIS {
+    width:800px;
+    height:640px; /* Maintain the aspect ratio */
+    display: block;
+    margin-left:500px;
+}
+
+.typography {
+    color: #000000;
+    font-size:19.9px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 20px; 
+    margin: -700px 120px; 
+    white-space: pre-wrap; 
+    line-height: 1.0; 
+}
+p{
+    white-space:pre-wrap; 
+} 
+
+
+.contact-info {
+    animation: glowAndScale 1.0s ease-out infinite; /* Loop the animation infinitely */
+}
+
+@keyframes glowAndScale {
+    0% {
+        transform: scale(1);
+        box-shadow: 0 0 10px rgba(255, 0, 0, 0.7);
+    }
+    50% {
+        transform: scale(1.2);
+        box-shadow: 0 0 20px rgb(255, 255, 255);
+    }
+    100% {
+        transform: scale(1);
+        box-shadow: 0 0 10px rgba(1, 1, 1, 0.7);
+    }
+}
+
+.contact-info a:hover{
+    color:red;
+}
+
+.contact-info a:visited{
+    color:rgb(51, 255, 0);
+}
