@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>መባ ህጻናት</title>
+    <link rel="stylesheet" href="index.css"/>
+    <link rel="icon" href="./main page image/ሎጎ.svg">
+</head>
+<body>
+    <div class="outer-part">
+   <header class="header-part">
+    <div class="internal-part">
+            <img class="logo" src="./main page image/ሎጎ.svg" alt="">
+            <img id="black-curve" src="./main page image/ብላክ ክርሽ.svg" alt="">
+            <img class="kids-reading" src="./main page image/th (1).jfif" alt="">
+        <div class="link-part">
+            <ul>
+            <li><a href="../mainpage/index.html">HOME</a></li>
+            <li><a target="_blank" href="../video/video.html">VIDEO</a></li>
+            <li><a target="_blank" href="../audio/audio.html">AUDIO</a></li>
+            <li><a target="_blank" href="../storybook/storybook.html">STORY BOOK</a></li>
+            <li><a target="_blank" href="../about/about.html">ABOUT</a></li>
+            <li><a target="_blank" href="../about/about.html">CONTACT</a></li>
+            </ul>
+        </div>
+    </div>
+   </header>
+   <section class="main-part">
+        <div class="sub-main-part">
+            <p><img id="description" src="./main page image/photo_2023-12-31_12-49-03.jpg" alt=""></p>
+            <div class="images">
+                <img class="black-kid" src="./main page image/ብላክ ኪድ.svg">
+                <img class="yehager-lij" src="./main page image/የሃገር ልጅ.svg">
+                <img class="washent-kid" src="./main page image/ዋሽንት ኪድ.svg">
+                <img class="kids-reading2" src="./main page image/th (1).jfif" alt="">
+                <img class="mitu" src="./main page image/ምቱ.svg">
+                <img class="afro-kid" src="./main page image/ዘ አፍሮ ኪድ.svg">
+                <img class="blackdot" src="./main page image/ትቁር ነተብ 2.svg">
+                <img class="redslide" src="./main page image/ከይ ስላይድ.svg">
+                <img class="ababa-tesfaye" src="./main page image/አባባ ተስፋዪ.svg">
+                <img class="redslide2" src="./main page image/ከይ ስላይድ 2.svg">
+                <img class="zigzag" src="./main page image/ዚግዛግ.svg" alt="">
+                <img class="leaf" src="./main page image/Leaf.svg" alt="">
+                <img class="blackdot2" src="./main page image/ትቁር ነተብ 2.svg" alt="">
+                <img class="three-kids" src="./main page image/3ቱ ኪድስ.svg">
+                <img class="vector8" src="./main page image/Vector 8.svg" alt="">
+                <img class="mitu2" src="./main page image/ምቱ 2.svg">
+                <img class="openbook" src="./main page image/th (2).jfif">
+                <img class="Two-boys" src="./main page image/2 ቦይስ.svg">
+            </div>
+        </div>
+   </section>
+</div>
+</body>
+</html>
