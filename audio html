@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>audio</title>
+    <link rel="stylesheet" href="audio.css">
+</head>
+<body>        
+        <div class="firstrow">
+            <video controls poster="./audio imges/alibaba.PNG">
+                <source src="E:/coding/dave's ip/audio/audio files/አሊባባና_አስራ_ሁለቱ_ሌቦች_Alibaba_and_40_Thieves_in_Amharic_Amharic (1).mp3">
+            </video>
+
+            <video controls poster="./audio imges/snow.PNG">
+                <source src="E:/coding/dave's ip/audio/audio files/በረዶ_ነጭና_ቀይ_ፅግይረዳ_Snow_White_And_The_Rose_Red_in_Amharic_Amha.mp3">
+            </video>
+
+            <video controls poster="./audio imges/bayaya the prince.PNG">
+                <source src="E:/coding/dave's ip/audio/audio files/ልኡል_ባያያ_Prince_Bayaya_And_His_Magic_Horse_Story_in_Amharic_A.mp3">
+            </video>
+            
+        </div>
+        <div class="secondrow">
+            <video controls poster="./audio imges/PUSS IN BOOTS.png">
+                <source src="E:/coding/dave's ip/audio/audio files/ፑስ_በቦቴ_Puss_in_Boots_in_Amharic_Amharic_Story_for_Kids_Amh.mp3">
+            </video>
+            <video controls poster="./audio imges/the delicious porridge.png">
+                <source src="E:/coding/dave's ip/audio/audio files/ጣፋጩ_ገንፎ_Sweet_Porrdige_in_Amharic_Amharic_Fairy_Tales.mp3">
+            </video>
+            <video controls poster="./audio imges/enbut.png">
+                <source src="E:/coding/dave's ip/audio/audio files/እቡጥ ነኝ እኔ እንቡጥ አበባ.mp3">
+            </video>
+            
+        </div>
+        <div class="thirdrow">
+            <video controls poster="./audio imges/THE BEAUTY AND THE BEAST.png">
+                <source src="E:/coding/dave's ip/audio/audio files/ቆንጆዋና_አውሬው_Beauty_and_the_Beast_in_Amharic_Amharic_Story_for.mp3">
+            </video>
+            <video controls poster="./audio imges/THE green door.png">
+                <source src="E:/coding/dave's ip/audio/audio files/አረንጓዴው በር   Green Door   Amharic Fairy Tales (1).mp3">
+            </video>
+            <video controls poster="./audio imges/chereka.png">
+                <source src="E:/coding/dave's ip/audio/audio files/Ethiopian kids song, ጨረቃ ድምቡል ጾቃ.mp3">
+            </video>
+        </div>
+        <div class="forthrow">
+            <video controls poster="./audio imges/thE PRINCESS WITH 20 DRESSES.png">
+                <source src="E:/coding/dave's ip/audio/audio files/እልት_Princess_with_20_skirts_in_Amheric_Amharic_Fairy_Tales (1).mp3">
+            </video>
+            <video controls poster="./audio imges/ELVES AND THE SHOE MAKER.png">
+                <source src="E:/coding/dave's ip/audio/audio files/ልቢሶችና_ጫማ_ሰሪው_Elves_and_the_Shoe_Maker_in_Amharic_Amharic_Sto.mp3">
+            </video>
+            <video controls poster="./audio imges/feteh.png">
+                <source src="E:/coding/dave's ip/audio/audio files/feteh.mp3">
+            </video>
+        </div>
+</body>
+</html>
