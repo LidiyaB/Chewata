@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <link rel="stylesheet" href="about.css">
+</head>
+<body>
+         <img id="ETHIOPIS" src="IMG_20231230_120149_450 1.png" alt="ETHIOPIS IMAGE">      
+   <div class="typography"> 
+    <p> Welcome to መባ ህጻናት – Celebrating Amharic Stories for Kids!
+        At መባ ህጻናት, we are dedicated to celebrating the rich tapestry of Amharic storytelling and culture. Our mission is to captivate young audiences 
+        with enchanting tales, preserving the beauty of Amharic folklore while fostering a love for reading and learning.
+        
+        <strong>Our Mission</strong>:We aim to provide a treasure trove of captivating Amharic children's stories, embracing traditional folktales, modern narratives, and 
+        educational content. Through engaging storytelling, we endeavor to nurture an appreciation for Amharic language, cultural values, and heritage 
+        among our young readers.
+        
+        <strong>What We Offer</strong>:Discover a diverse collection of stories catering to various age groups, from preschoolers to early readers and beyond. Our stories are available in written and audio formats, ensuring an immersive experience for children eager to explore the magic of Amharic tales.
+
+        <strong>Preserving Cultural Heritage</strong>:At መባ ህጻናት, we believe in the significance of preserving Amharic culture and traditions. Our stories not only entertain but also serve as vessels to impart cultural wisdom, values, and traditions, connecting younger generations to their cultural roots.
+        
+        <strong>Creators and Contributors</strong>:We proudly collaborate with talented authors, illustrators, and educators passionate about creating compelling content for children. Our team is committed to crafting stories that captivate young minds and spark imagination.
+        
+        <strong>Engagement and Community</strong>:We encourage interaction and engagement within our community. Share your thoughts, suggestions, or even your own stories with us! Your feedback is vital in shaping our content and serving our audience better.
+        
+        <strong>Get in Touch</strong>:Have questions or want to collaborate? Reach out to us at <span id="contact" class="contact-info"><a href="https://t.me/lidub">Telegram</a></span> or connect with us on <span id="contact" class="contact-info"><a href="mailto:@example.com">Email</a></span>. We love hearing from our young readers and their families!
+        Join us on an exciting journey through the colorful world of Amharic storytelling at መባ ህጻናት. Let imagination take flight as we embark on adventures through captivating tales that celebrate Amharic culture and enchant young hearts and minds!</p>
+        </div>
+        <!-- ወደ መባ ህጻናት እንኳን በደህና መጡ - የአማርኛ ታሪኮችን ለልጆች ማክበር!
+            በመባ ህጻናት፣ የአማርኛ ተረት ተረት እና ባህልን ለማክበር ቆርጠን ተነስተናል። የኛ ተልእኮ ወጣት ተመልካቾችን በአስደናቂ ተረቶች መማረክ፣ የአማርኛን ወግ ውበት በማስጠበቅ የማንበብ እና የመማር ፍቅርን ማዳበር ነው።
+           
+            ተልእኳችን፡ የአማርኛ ልጆች ታሪኮችን የሚማርክ፣ ባህላዊ ተረቶችን፣ ዘመናዊ ትረካዎችን እና ትምህርታዊ ይዘቶችን የሚማርክ ውድ ሀብት ለማቅረብ ዓላማችን ነው። በተረት ተረት ተረት ተረት አማካኝነት ለወጣት አንባቢዎቻችን ለአማርኛ ቋንቋ፣ ለባህላዊ እሴቶች እና ቅርሶች ያለንን አድናቆት ለማሳደግ እንጥራለን።
+           
+            የምናቀርበው፡- ከቅድመ ትምህርት ቤት ተማሪዎች እስከ ቀደምት አንባቢዎች እና ከዚያም በላይ ለተለያዩ የዕድሜ ቡድኖች የሚያገለግሉ የተለያዩ የታሪክ ስብስቦችን ያግኙ። የአማርኛን ተረት አስማት ለመቃኘት ለሚጓጉ ህፃናት መሳጭ ልምድን በማረጋገጥ ታሪኮቻችን በፅሁፍ እና በድምጽ ተዘጋጅተዋል።
+            የባህል ቅርሶችን መጠበቅ፡በመባ ህጻናት የአማርኛን ባህልና ወግ መጠበቅ ያለውን ጠቀሜታ እናምናለን። ታሪኮቻችን መዝናኛን ብቻ ሳይሆን ባህላዊ ጥበብን፣ እሴቶችን እና ወጎችን ለማስተላለፍ እንደ ዕቃ ሆነው ያገለግላሉ፣ ወጣቱን ትውልድ ከባህላዊ ሥሮቻቸው ጋር ያስተሳስራል።
+           
+            ፈጣሪዎች እና አስተዋጽዖ አበርካቾች፡ ለህጻናት አሳማኝ ይዘትን ለመፍጠር ከሚፈልጉ ችሎታ ካላቸው ደራሲያን፣ ገላጭ ሰሪዎች እና አስተማሪዎች ጋር በኩራት እንተባበራለን። ቡድናችን የወጣቶችን አእምሮ የሚማርኩ እና ምናብን የሚቀሰቅሱ ታሪኮችን ለመስራት ቁርጠኛ ነው።
+           
+            ተሳትፎ እና ማህበረሰብ፡በማህበረሰባችን ውስጥ መስተጋብር እና ተሳትፎን እናበረታታለን። ሃሳቦችዎን ፣ ጥቆማዎችዎን ወይም የራስዎን ታሪኮች ከእኛ ጋር ያካፍሉ! የአንተ አስተያየት ይዘታችንን ለመቅረጽ እና ታዳሚዎቻችንን በተሻለ ለማገልገል ወሳኝ ነው።
+           
+            ያግኙን: ጥያቄዎች አሉዎት ወይም መተባበር ይፈልጋሉ? በ [ኢሜል አድራሻ] ያግኙን ወይም ከእኛ ጋር በ[ማህበራዊ ሚዲያ መድረኮች] ይገናኙን። ከወጣት አንባቢዎቻችን እና ከቤተሰቦቻቸው መስማት እንወዳለን!
+            በመባ ህጻናት ላይ በቀለማት ያሸበረቀ የአማርኛ ተረት ተረት አለም ውስጥ አስደሳች ጉዞ ላይ ይቀላቀሉን። የአማርኛን ባህል የሚያከብሩ እና የወጣት ልብ እና አእምሮን የሚያማምሩ ተረቶች ወደ ጀብዱዎች ስንጀምር ምናብ ይበር! -->
+</body>
+</html>
