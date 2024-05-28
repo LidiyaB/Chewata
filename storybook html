@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>storybook</title>
+    <link rel="stylesheet" href="storybook.css">
+</head>
+<body>
+    <div class="firstrow">
+        <img src="./storybook images/th (9).jfif" alt="">
+        <img src="./storybook images/th (7).jfif" alt="">
+        <img src="./storybook images/th (4).jfif" alt="">
+    </div>
+    <div class="secondrow">
+        <img src="./storybook images/th (8).jfif" alt="">
+        <img src="./storybook images/th (5).jfif" alt="">
+    </div>
+    <div class="thirdrow">
+        <img src="./storybook images/th (10).jfif" alt="">
+        <img src="./storybook images/th (9).jfif" alt="">
+        <img src="./storybook images/th (4).jfif" alt="">
+    </div>
+</body>
+</html>
